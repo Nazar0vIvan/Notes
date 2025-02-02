@@ -366,19 +366,20 @@ $$ \varphi: G_1\times G_2 \times ... \times G_n \rightarrow E_2$$
 
 $$\le:\Reals \times \Reals \rightarrow E_2$$
 
+Предикатная формула определяется 
 
 ##### Выборка (Select)
 
-Выборкой (Select) \(\sigma_\varphi\) с предикатом \(\varphi\) на отношении \(R\) называется операция вида:
+**Выборкой (Select) \(\sigma_\varphi\)** с предикатной формулой \(\varphi\) на отношении \(R\) называется операция вида:
 
 $$
 \begin{array}{l}
 \sigma_{\varphi}: R \rightarrow r,\ где\ r\in R,\ \varphi(R)=1\\[0.5em]
-\varphi: D_1 \times D_2 \times ... \times D_n \rightarrow E_2
+R\sube D_{A_1} \times D_{A_2} \times ... \times D_{A_n}
 \end{array}
 $$
 
-Предикатная формула  определяется 
+
 
 
 
