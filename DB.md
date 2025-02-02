@@ -372,9 +372,13 @@ $$\le:\Reals \times \Reals \rightarrow E_2$$
 Выборкой (Select) \(\sigma_\varphi\) с предикатом \(\varphi\) на отношении \(R\) называется операция вида:
 
 $$
-\boxed{\sigma_{\varphi}: R \rightarrow r,\ где\ r\in R,\ \varphi(R)=1}
+\begin{array}{l}
+\sigma_{\varphi}: R \rightarrow r,\ где\ r\in R,\ \varphi(R)=1\\[0.5em]
+\varphi: D_1 \times D_2 \times ... \times D_n \rightarrow E_2
+\end{array}
 $$
 
+Предикатная формула  определяется 
 
 
 
